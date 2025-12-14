@@ -2,6 +2,8 @@
 # Practicum Problem 5660 Fall 2025
 In this problem you will evaluate a strategy for portfolio reallocation where we use a binary Bernoulli bandit model to rank assets under different assumptions about market moods and investor preferences. This is an extension of the material covered in Lecture 14a on Risk-Aware Portfolio Management using Contextual Bandits.
 
+.
+
 > __Objective__
 >
 > The objective of this practicum is to analyze how different investor risk profiles (risk-averse, risk-neutral, risk-seeking) affect portfolio performance when using a ticker-picker model to guide investment decisions (a component of the ticker-choice problem). You will also implement a periodic reallocation strategy based on the outputs of the ticker-picker model, and compare these results to a buy-and-hold strategy, and two alternative (passive) investments: SPY and a risk-free asset.
